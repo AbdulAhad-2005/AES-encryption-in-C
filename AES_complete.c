@@ -1,3 +1,5 @@
+// this code encrypts the plaintext and also decrypts the ciphertext being encrypted at the same time
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
