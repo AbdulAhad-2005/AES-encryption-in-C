@@ -1,4 +1,3 @@
-
 Advanced Encryption Standard (AES) is a very secure encryption algorithm used now a days instead of its predeccesor Data Encryption Standard (DES)
 -
 
